@@ -1,0 +1,12 @@
+c:\Users\Pedro\Documents\Visual Studio 2015\Projects\CursoLinQAlura\CursoLinQAlura\bin\Debug\CursoLinQAlura.exe.config
+C:\Users\Pedro\documents\visual studio 2015\Projects\CursoLinQAlura\CursoLinQAlura\bin\Debug\Data\AluraTunes1.mdf
+C:\Users\Pedro\documents\visual studio 2015\Projects\CursoLinQAlura\CursoLinQAlura\bin\Debug\Data\AluraTunes1_log.ldf
+C:\Users\Pedro\documents\visual studio 2015\Projects\CursoLinQAlura\CursoLinQAlura\bin\Debug\CursoLinQAlura.exe
+C:\Users\Pedro\documents\visual studio 2015\Projects\CursoLinQAlura\CursoLinQAlura\bin\Debug\CursoLinQAlura.pdb
+C:\Users\Pedro\documents\visual studio 2015\Projects\CursoLinQAlura\CursoLinQAlura\bin\Debug\EntityFramework.dll
+C:\Users\Pedro\documents\visual studio 2015\Projects\CursoLinQAlura\CursoLinQAlura\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pedro\documents\visual studio 2015\Projects\CursoLinQAlura\CursoLinQAlura\bin\Debug\EntityFramework.xml
+C:\Users\Pedro\documents\visual studio 2015\Projects\CursoLinQAlura\CursoLinQAlura\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pedro\documents\visual studio 2015\Projects\CursoLinQAlura\CursoLinQAlura\obj\Debug\CursoLinQAlura.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\documents\visual studio 2015\Projects\CursoLinQAlura\CursoLinQAlura\obj\Debug\CursoLinQAlura.exe
+C:\Users\Pedro\documents\visual studio 2015\Projects\CursoLinQAlura\CursoLinQAlura\obj\Debug\CursoLinQAlura.pdb
